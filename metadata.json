@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Explorer",
+  "description": "A clean interface for exploring and interacting with your Supabase database.",
+  "requestFramePermissions": []
+}
